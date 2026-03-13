@@ -1,0 +1,8 @@
+{
+  "name": "simple-defi-staking-vault",
+  "version": "1.0.0",
+  "description": "Professional yield-bearing staking vault",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
